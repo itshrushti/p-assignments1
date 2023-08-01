@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "app-for-chat": "^1.0.0",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.5.2",
+    "node-fetch": "^3.2.10",
+    "socket.io": "^4.7.1"
+  },
+  "name": "que10",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "test.js",
+    "server": "que10.js",
+    "myscript": "que10.js",
+    "script1": "que10.js",
+    "script2": "que10.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
